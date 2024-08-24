@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c333ccfdd0cbdbc4ca30cef2dd6e6b9b, type: 3}
   m_Name: OttLogger
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: b7cdff256a83d524eb5e1f5677d5ed28,
+  serializedUdonProgramAsset: {fileID: 11400000, guid: c528467e2c2ee624c8326dd4230e17f9,
     type: 2}
   udonAssembly: 
   assemblyError: 
